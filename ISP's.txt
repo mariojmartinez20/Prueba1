@@ -1,0 +1,29 @@
+Coca-Cola Empresa a Utilizar
+
+Honduras: Cable Color
+Estados Unidos: AT&T
+Panama: AT&T
+Francia: Orange
+Japón:au Hikari
+
+Número Host = 2176
+
+Ciudades de estados unidos
+miami
+virginia beach = 23.130.176.25
+Grover Beach 
+-----------------------------------------------------------
+ciudades de francia 
+saint hilaire
+-----------------------------------------------------------
+ciudad de Honduras
+Puerto Cortes
+----------------------------------------------------------
+ciudad de panama
+Maria chiquita
+fort Amador
+
+ciudad de japon
+shima 
+
+
